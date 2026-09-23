@@ -1,0 +1,26 @@
+# BASE DE DATOS AUTOMÁTICA - ALCALDÍA DE VILLANUEVA
+# Última actualización automática: 2026-09-23 07:36:20
+
+
+--- SECCIÓN: https://www.villanueva-guajira.gov.co ---
+
+
+
+--- SECCIÓN: https://www.villanueva-guajira.gov.co/atencion-y-servicios-a-la-ciudadania ---
+
+
+
+--- SECCIÓN: https://www.villanueva-guajira.gov.co/transparencia ---
+
+
+
+--- SECCIÓN: https://www.villanueva-guajira.gov.co/nuestra-alcaldia ---
+
+
+
+--- SECCIÓN: https://www.villanueva-guajira.gov.co/nuestra-alcaldia/directorio-de-funcionarios ---
+
+
+
+--- SECCIÓN: https://www.villanueva-guajira.gov.co/nuestra-alcaldia/directorio-institucional ---
+
