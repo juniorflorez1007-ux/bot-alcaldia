@@ -46,7 +46,7 @@ def generar_ticket_local(nombre, problema):
 # ==========================================
 # CONFIGURACIÓN DE IA (GEMINI)
 # ==========================================
-API_KEY = "AQ.Ab8RN6JLqD9BVaeMUsXKdA-LNuxs662VX69dobMrmAq86txGYw"
+API_KEY = "AQ.Ab8RN6JuojEHe1mfxD0WoeTyj19sAzMfxsi9PoGdIf1ES9wFMQ"
 client = genai.Client(api_key=API_KEY)
 
 # PROMPT TOTALMENTE ESTRICTO PARA EVITAR SALUDOS Y SER RÁPIDO
